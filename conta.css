@@ -1,0 +1,89 @@
+@charset "utf-8";
+body {background-color: #cecece;}
+
+#contenuer {width:775px;
+            height:750px;  /* Provisoir, remplacer avec la valeur auto des que le contenu 
+			est mis en place */
+			border: 2px solid #E2F017;
+			margin:auto;
+			border-radius: 10px;
+			background-color: #45E81C;
+	       }
+#banniere{width: 775px;
+          height: 100px;
+		  background-color: #45E81C;
+         }
+#logo { margin-top: 10px;
+        margin-left:25px;
+      }
+#slogan {margin-left: 500px;
+         margin-top: -70px;
+		 width: 209px;
+		 height: 62px; 
+        }
+#menu_principale {font-family: inter, geneva, bold;
+                  font-size: 11px;
+				  margin-top: 35px;
+				  margin-left: 15px;
+                 }
+#footer{width: 775px;
+          height: 450px;
+          border: 2px solid #E2F017;
+         
+          margin-top: 100px;
+		  background-color: #FD0909;
+		   }
+.article9{ font-family: 
+           font-size: 22px;
+   		   color: #fff;
+		   margin-top: 420px;
+           margin-left: 170px; }
+#ADRESSE h3{font-family: inter, geneva, bold;
+	        margin-top: -430px;
+           margin-left: 30px;
+            color:#fff  } 
+#Localite {font-family: inter, geneva, bold;
+	       margin-top:auto;
+           margin-left: 20px;
+            font-size: 18px;
+		   color: #fff;
+		   width:200px;
+		   text-align:justify  } 
+#imagV {margin-top: 10px;
+        margin-left: 30px;} 
+#Info h3{font-family: inter, geneva, bold;
+	      margin-top: -270px;
+           margin-left: 350px;
+            color:#fff  } 
+#inf {   font-family: inter, geneva, bold;
+	       margin-top:auto;
+           margin-left: 285px;
+            font-size: 18px;
+		   color: #fff;
+		   width:200px;
+		   text-align:justify  } 
+#Bonus h3{font-family: inter, geneva, bold;
+	      margin-top: -80px;
+           margin-left: 600px;
+            color:#fff  }
+#imagVC {margin-top: 50px;
+        margin-left: 550px;} 
+
+#Contact h3{font-family: inter, geneva, bold;
+	      margin-top: -170px;
+           margin-left: 350px;
+            color:#fff  } 
+#cont {   font-family: inter, geneva, bold;
+	       margin-top:auto;
+           margin-left: 280px;
+            font-size: 18px;
+		   color: #fff;
+		   width:220px;
+		   text-align:justify  }   
+.BNV {font-family: inter, geneva, bold;
+           font-size: 25px;
+           width: 300px;
+      margin-top: -370px;
+	  margin-left: 200px;
+	  color: #fff
+           }    		             		           		               
